@@ -10,9 +10,9 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "AcoFork Blog",
+	title: "Hanzeの小屋",
 	description:
-		"分享网络技术、服务器部署、内网穿透、静态网站搭建、CDN优化、容器化部署等技术教程与实践经验的个人技术博客，专注于云原生、无服务器架构和前后端开发，作者为afoim/二叉树树",
+		"Hanze的个人博客站",
 
 	keywords: [],
 	lang: "zh_CN", // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
@@ -49,7 +49,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// Leave this array empty to use the default favicon
 		{
-			src: "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=0", // Path of the favicon, relative to the /public directory
+			src: "https://q2.qlogo.cn/headimg_dl?dst_uin=1522829644&spec=0", // Path of the favicon, relative to the /public directory
 			//   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
 			//   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		},
@@ -73,12 +73,12 @@ export const navBarConfig: NavBarConfig = {
 		},
 		{
 			name: "统计",
-			url: "https://umami.2x.nz/share/ZyDjOrmjaBTlmGtd", // Internal links should not include the base path, as it is automatically added
+			url: "https://umami.2x.nz/share/vfaDlzvCLe2TBrcQ", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 		{
 			name: "状态",
-			url: "https://ss.2x.nz/", // Internal links should not include the base path, as it is automatically added
+			url: "https://status.hanze.icu/", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
@@ -116,8 +116,8 @@ export const imageFallbackConfig: ImageFallbackConfig = {
 
 export const umamiConfig: UmamiConfig = {
 	enable: true,
-	baseUrl: "https://umami.2x.nz",
-	shareId: "ZyDjOrmjaBTlmGtd",
+	baseUrl: "https://umami.hanze.icu",
+	shareId: "vfaDlzvCLe2TBrcQ",
 	timezone: "Asia/Shanghai",
 };
 
