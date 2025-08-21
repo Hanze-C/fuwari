@@ -28,10 +28,10 @@
 - 用途：提供 CDN 服务、安全防护、性能优化
 - 隐私政策：[Cloudflare 隐私政策](https://www.cloudflare.com/privacypolicy/)
 
-**Netlify**
+**Netlify/Vercel/Tencent EdgeOne(国际)**
 - 可能收集的信息：IP 地址、访问日志、性能数据
 - 用途：网站托管、部署服务
-- 隐私政策：[Netlify 隐私政策](https://www.netlify.com/privacy/)
+- 隐私政策：[Netlify 隐私政策](https://www.netlify.com/privacy/)/[Vercel 隐私政策](https://vercel.com/legal/privacy-policy)/[腾讯云(国际) 隐私政策](https://www.tencentcloud.com/zh/document/product/301/17345)
 
 ### 分析和统计服务
 
@@ -94,8 +94,8 @@
 ## 滥用与版权举报
 
 如果您发现网站内容存在滥用、侵权或其他违法违规行为，请通过以下方式联系我们：
-- **邮箱**：i@2x.nz
-- **Telegram**：https://t.me/acofork
+- **邮箱**：mail@hanze.icu
+- **Telegram**：https://t.me/C_Hanze
 
 我们将认真对待每一个举报，并在收到举报后及时处理相关问题。
 
