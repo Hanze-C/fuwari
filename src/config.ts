@@ -85,19 +85,19 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=0", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "二叉树树",
-	bio: "你往小腹下探探有棍你就倒倒有豆你就点点比网站好玩🥰",
+	avatar: "https://q2.qlogo.cn/headimg_dl?dst_uin=1522829644&spec=0", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	name: "C.hanze",
+	bio: "一个普普通通的中学生",
 	links: [
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/325903362",
+			url: "https://space.bilibili.com/",
 		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/afoim",
+			url: "https://github.com/Hanze-C",
 		},
 	],
 };
