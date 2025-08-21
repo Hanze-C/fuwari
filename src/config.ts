@@ -73,7 +73,7 @@ export const navBarConfig: NavBarConfig = {
 		},
 		{
 			name: "统计",
-			url: "https://umami.2x.nz/share/vfaDlzvCLe2TBrcQ", // Internal links should not include the base path, as it is automatically added
+			url: "https://umami.hanze.icu/share/vfaDlzvCLe2TBrcQ", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 		{
